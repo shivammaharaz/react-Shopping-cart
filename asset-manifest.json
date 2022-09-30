@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shopping-cart-with-localstorage/static/css/main.ef56e85e.css",
+    "main.js": "/Shopping-cart-with-localstorage/static/js/main.d5e7b71b.js",
+    "index.html": "/Shopping-cart-with-localstorage/index.html",
+    "main.ef56e85e.css.map": "/Shopping-cart-with-localstorage/static/css/main.ef56e85e.css.map",
+    "main.d5e7b71b.js.map": "/Shopping-cart-with-localstorage/static/js/main.d5e7b71b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef56e85e.css",
+    "static/js/main.d5e7b71b.js"
+  ]
+}
